@@ -1,4 +1,5 @@
 public class Menu {
+    //Cristhian Pañora
     public static void main(String[] args) {
         Doctor Ana = new Doctor(0,"Ana","","","","Leo",33,"Doctora","",0,"","");
         Emp_Privado Pablo = new Emp_Privado(0,"Pablo","","","123456","",0,"","","");
